@@ -1,0 +1,17 @@
+:root {
+  background-color:#4f586e;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  background-color:#cfd3dd;
+  padding: 100px;
+  margin-top: 100px;
+  border-radius: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
